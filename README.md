@@ -38,6 +38,6 @@ Creating Roleplay ready elements — virtual, visual, and visceral. From motion 
 
 ---
 
-`✨ I believe design should feel like magic, and code should make it real.`  
+`✨ I believe design should feel like magic.`  
 
 -->
