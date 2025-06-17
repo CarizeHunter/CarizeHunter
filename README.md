@@ -33,7 +33,7 @@ Creating Roleplay ready elements — virtual, visual, and visceral. From motion 
 
 ## 💌 Let’s Connect
 - 🎥 [@carizehunter](https://www.instagram.com/carizehunter) on Instagram  
-- 🌐 [Portfolio Website](https://carizehunter.myportfolio.com/) *(Coming Soon!)*  
+- 🌐 [Portfolio Website](https://carizehunter.myportfolio.com/) VR
 - 📫 carizehunter@gmail.com  
 
 ---
