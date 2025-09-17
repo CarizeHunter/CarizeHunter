@@ -20,7 +20,7 @@ Creating Roleplay ready elements — virtual, visual, and visceral. From motion 
 [Click here to see projects](https://www.dropbox.com/scl/fo/3hnel419whblp62wge4h9/AGapBlFuYCMXSSeZpbB76CI?rlkey=16zqknwcnijohy85mtw77feh2&st=u06vq9pz&dl=1)
 
 
-*(More coming soon...)*
+*(Visit often for updates)*
 
 ## 🛠️ Tools & Languages
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=AdobePhotoshop&logoColor=white)
