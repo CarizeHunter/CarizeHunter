@@ -23,14 +23,15 @@ Creating Roleplay ready elements — virtual, visual, and visceral. From motion 
 *(Visit often for updates)*
 
 ## 🛠️ Tools & Languages
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=AdobePhotoshop&logoColor=white)
-![Adobe AE](https://img.shields.io/badge/-After_Effects-9999FF?logo=AdobeAfterEffects&logoColor=white)
+
 ![CodeWalker](https://img.shields.io/badge/-CodeWalker-grey)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=Unity&logoColor=white)
 ![LUA](https://img.shields.io/badge/Lua-000000?logo=lua&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=AdobePhotoshop&logoColor=white)
+![Adobe AE](https://img.shields.io/badge/-After_Effects-9999FF?logo=AdobeAfterEffects&logoColor=white)
 
 ## 💌 Let’s Connect
 - 🎥 [@carizehunter](https://www.instagram.com/carizehunter) on Instagram  
