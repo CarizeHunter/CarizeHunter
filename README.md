@@ -13,7 +13,7 @@ Creating Roleplay ready elements - virtual, visual, and visceral. From motion gr
 ## 🌍 Featured Projects
 - 🏙️ **La Bastille - RedM** *(Custom in-game assets / PMMS ready)*
 - 🚓 **Custom Livery Pack - GTA5** *(Livery design, Logo development)*
-- 📼 **Icons & Sinage Sets** *(Custom in-game assets)*
+- 📼 **Icons & Sinage Sets** - *(Custom in-game assets)*
 
 ## 📸 Preview My Work
 
