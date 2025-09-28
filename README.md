@@ -2,13 +2,13 @@
 
 🎨 **Creative Developer | Immersive Designer | Visual Storyteller**
 
-Creating Roleplay ready elements — virtual, visual, and visceral. From motion graphics to immersive GTA and RedM environments, my work bridges technical skill with cinematic aesthetics.
+Creating Roleplay ready elements - virtual, visual, and visceral. From motion graphics to immersive GTA and RedM environments, my work bridges technical skill with cinematic aesthetics.
 
 ## 💻 What I Do
-- 🎮 **Game Dev / Modding** — Experience with MLO maniputlation, Codewalker environments, vehicle liveries, Durty Cloth Tool
-- 🧰 **Creative Tools** — Advanced Adobe Creative Suite pro (After Effects, Premiere Pro, Photoshop, Illustrator)
-- 🌐 **Web/UI** — Experience with HTML/CSS/JS interfaces, Unity prototyping
-- 💬 **Community & RP** — Contributor to immersive RP servers; social, creative, and narrative support
+- 🎮 **Game Dev / Modding** - Experience with MLO maniputlation, Codewalker environments, vehicle liveries, Durty Cloth Tool
+- 🧰 **Creative Tools** - Advanced Adobe Creative Suite pro (After Effects, Premiere Pro, Photoshop, Illustrator)
+- 🌐 **Web/UI** - Experience with HTML/CSS/JS interfaces, Unity prototyping
+- 💬 **Community & RP** - Contributor to immersive RP servers; social, creative, and narrative support
 
 ## 🌍 Featured Projects
 - 🏙️ **La Bastille - RedM** *(Custom in-game assets / PMMS ready)*
